@@ -1,0 +1,89 @@
+/* src/components/Profile.css */
+/* src/components/Profile.css */
+/* .profile-container {
+    background: linear-gradient(135deg, #e0f7fa, #80deea);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    margin: 20px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+  }
+  
+  .profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-header h3 {
+    font-size: 28px;
+    color: #00796b;
+  }
+  
+  .profile-info {
+    font-size: 18px;
+    color: #004d40;
+  }
+  
+  .profile-info p {
+    margin: 15px 0;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-info strong {
+    color: #00796b;
+  }
+  
+  .no-user {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #00796b;
+  }
+   */
+
+
+   /* Styles for the profile page */
+.profile-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url('https://images.pexels.com/photos/39671/physiotherapy-weight-training-dumbbell-exercise-balls-39671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') no-repeat center center/cover;
+  padding: 20px;
+}
+
+.profile-container {
+  max-width: 600px;
+  width: 100%;
+  padding: 30px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.8); /* Slightly transparent background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.profile-info {
+  padding: 20px;
+}
+
+.profile-details p {
+  margin-bottom: 10px;
+  font-size: 1.1em;
+  color: #555;
+}
+
+.no-user {
+  text-align: center;
+  font-size: 1.2em;
+  color: #666;
+}
