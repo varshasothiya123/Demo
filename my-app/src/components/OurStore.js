@@ -81,6 +81,7 @@ function OurStore() {
               <p>At Fitness Tracker Inc., we are dedicated to helping you achieve your fitness goals with innovative tools and personalized insights. Join us in making fitness a part of your daily routine.</p>
             </div>
             <div className="col-md-4">
+              <h2>hello</h2>
               <h5>Quick Links</h5>
               <ul className="list-unstyled">
                 <li><a href="#about" style={{ color: "#fff" }}>About Us</a></li>
